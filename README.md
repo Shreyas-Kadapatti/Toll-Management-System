@@ -57,8 +57,8 @@ Make sure you have the following installed:
 Clone the repository and install dependencies:
 
 ```bash
-1.git clone https://github.com/Shreyas-Kadapatti/TOLL.git
-2.cd TOLL
+1.git clone [https://github.com/Shreyas-Kadapatti/TOLL.git](https://github.com/Shreyas-Kadapatti/Toll-Management-System.git)
+2.cd Toll-Management-System
 ## 📂 Project Structure
 
 TOLL/
